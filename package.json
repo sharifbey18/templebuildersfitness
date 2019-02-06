@@ -1,0 +1,22 @@
+{
+  "name": "templebuildersfitness",
+  "version": "1.0.0",
+  "description": "fintess",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharifbey18/templebuildersfitness.git"
+  },
+  "keywords": [
+    "tbf"
+  ],
+  "author": "Hit Now Listen / Tek Branch solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharifbey18/templebuildersfitness/issues"
+  },
+  "homepage": "https://github.com/sharifbey18/templebuildersfitness#readme"
+}
